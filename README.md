@@ -15,6 +15,20 @@ A **next-generation dashboard interface** that blends performance, accessibility
 
 ---
 
+## 🌐 Live Demo  
+
+Check out the production version deployed on **Netlify**:  
+[https://keen-paprenjak-1b8502.netlify.app](https://keen-paprenjak-1b8502.netlify.app)  
+
+---
+
+## 🎥 Production Demo Video  
+
+Watch the dashboard in action:  
+[Download/View Demo Video](https://github.com/piyushagrawal1403/React-Dashboard/releases/download/v0.1.0/Screencast.from.2025-09-21.12-09-58.webm)  
+
+---
+
 ## 🛠️ Tech Stack  
 
 - **React** – Component-based UI library  
